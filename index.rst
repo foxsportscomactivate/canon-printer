@@ -28,30 +28,17 @@ How do I Download Canon Printer Drivers and Software?
 
 
 
-Installing a Canon printer on your computer involves connecting the device and installing the necessary drivers. Whether using a USB cable or Wi-Fi, the process is straightforward and usually only takes a few minutes.
+Downloading Canon printer drivers and software is quick and simple. Visit `canon.com/ijsetup <https://can.redircoms.com>`_, enter your printer model, and select the appropriate drivers for your operating system. Follow the on-screen instructions to download and install the files, ensuring your printer functions optimally.
 
-To begin, connect your Canon printer and download the drivers from `canon.com/ijsetup <https://can.redircoms.com>`_ or use the installation CD included with your printer.
+Steps: Download Canon Printer Drivers and Software
+---------------------------------------------------
 
-Steps: Install My Canon Printer to My Computer
-----------------------------------------------
-
-**1. Unbox and Power On:**  
-Unbox your Canon printer, plug it into a power source, and press the power button to turn it on.
-
-**2. Connect to Computer:**
-
-- **USB Connection:** Plug the USB cable from the printer into your computer.
-- **Wireless Connection:** Use the printer’s control panel to connect to your Wi-Fi network.
-
-**3. Download Drivers:**  
-Visit `canon.com/ijsetup <https://can.redircoms.com>`_ and download the appropriate drivers/software for your Canon printer model.
-
-**4. Run Installation File:**  
-Locate and open the downloaded driver file. Follow the on-screen instructions to install the printer drivers.
-
-**5. Complete Setup:**  
-After installation, your computer should automatically detect the printer. You may choose to set it as your default printer.
-
-**6. Print Test Page (Optional):**  
-To confirm that everything is working properly, print a test page.
+1. **Open a Browser:** Launch any web browser and go to `canon.com/ijsetup <https://can.redircoms.com>`_.
+2. **Enter Printer Model:** Type your Canon printer model into the search box and select it from the results.
+3. **Go to Drivers & Downloads:** Navigate to the **Drivers & Downloads** section for your printer.
+4. **Select Operating System:** Choose your operating system from the drop-down menu.
+5. **Download Driver or Software:** Select the recommended driver or software package and click the **Download** button.
+6. **Run Installer:** Open the downloaded file and follow the on-screen instructions to install the drivers.
+7. **Restart if Needed:** Restart your computer if prompted after the installation.
+8. **Test the Printer:** Print a test page or document to ensure everything is working correctly.
 
