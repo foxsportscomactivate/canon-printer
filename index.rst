@@ -3,7 +3,7 @@ How do I Install My Canon Printer to My Computer?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: FAC645F7A6F0C987881BDC96B99921F8
 
 .. image:: blank.png
       :width: 350px
@@ -55,4 +55,3 @@ After installation, your computer should automatically detect the printer. You m
 **6. Print Test Page (Optional):**  
 To confirm that everything is working properly, print a test page.
 
-For future updates and driver downloads, always refer to the official setup site: `canon.com/ijsetup <https://can.redircoms.com>`_.
