@@ -1,5 +1,5 @@
 ##################
-How do I Install My Canon Printer to My Computer?
+How do I Download Canon Printer Drivers and Software?
 ##################
 
 .. meta::
